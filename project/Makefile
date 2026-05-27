@@ -2,7 +2,7 @@
 # Makefile
 #
 
-PROJECT_NAME        := Linuxtage2026GameboyHandson
+PROJECT_NAME        := GameBoyHandson
 
 
 # Define the RGBDS commands we need
