@@ -1,5 +1,7 @@
-# glt26-gameboy-workshop
+# kfu-gameboy-workshop
 Resources for the workshop "Hands-On Introduction to Game Boy Programming" at the University of Graz.
+
+![teaser.png](teaser.png)
 
 This tutorial and the primary game mechanic of the rhythm input are inspired by my game
 [Tyro Shaman](https://github.com/meteoritenhagel/TyroShaman) which I have programmed in 2025.
